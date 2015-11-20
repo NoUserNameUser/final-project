@@ -1,6 +1,6 @@
 import socket
 
-class MySocket:
+class mysocket:
 
     def __init__(self, sock=None):
         if sock is None:
