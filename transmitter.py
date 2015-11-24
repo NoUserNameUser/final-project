@@ -1,12 +1,13 @@
 import socket
 import sys
 import MyPacket
+import MySocket
+import config
 
 # Creates a TCP/IP socket
-#socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+socket = MySocket.mysocket()
 
-# Connects as client 
-#socket.connect((hostname, portnumber))
+socket.sock.connect(config.hostnameNE)
 
 argument = sys.argv
 print argument
@@ -21,6 +22,7 @@ with open(argument[1], 'r') as f:
 			packet = MyPacket.mypacket(2, seqNum, read_data, 8, None)
 			seqNum += 1
 			print read_data
+			socket.sock.sendall(read_data)
 		print '====================', seqNum
 		if not read_data:
 			break
