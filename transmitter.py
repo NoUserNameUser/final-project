@@ -3,6 +3,7 @@ import sys
 import MyPacket
 import MySocket
 import config
+import pickle
 
 # IP Address for Transmitter
 host = config.hostnameT
@@ -22,8 +23,10 @@ with open(argument[1], 'r') as f:
 			read_data = f.read(1)
 			packet = MyPacket.mypacket(2, seqNum, read_data, config.windowSize, None)
 			seqNum += 1
-			print read_data
-			socket.sock.sendall(read_data)
+			# print read_data
+			packet = pickle.dumps(packet)
+			print packet
+			socket.sock.sendall(packet)
 		print '====================', seqNum
 		if not read_data:
 			break

@@ -2,6 +2,7 @@
 import MyPacket
 import MySocket
 import config
+import pickle
 
 print config.hostnameR
 
@@ -13,12 +14,17 @@ print "listening on port %s" % config.rPort
 while True:
 	conn, c_adddr = socket.sock.accept()
 	print c_adddr, conn
-	revBuffer = conn.recv(1024)
-	print revBuffer
-	if not data:
-		break
+	while True:
+		revBuffer = conn.recv(1024)
+		if revBuffer:
+			recvPacket = pickle.loads(revBuffer)
+			data = recvPacket.data
+			seqNum = recvPacket.seqNum
+
+		if not revBuffer:
+			break
 
 	seqNum = 1
 	ackNum = 0
-	ack = MyPacket.mypacket(1, 1, None, config.windowSize, ackNum)
-	print "%s %s %s %s %s" % ack
+	# ack = MyPacket.mypacket(1, 1, None, config.windowSize, ackNum)
+	# print "%s" % ack.data
