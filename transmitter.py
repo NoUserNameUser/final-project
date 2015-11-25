@@ -11,6 +11,8 @@ host = config.hostnameT
 # Creates a TCP/IP socket
 socket = MySocket.mysocket()
 
+ackSocket = MySocket.mysocket()
+
 socket.sock.connect((config.hostnameNE, config.rPort))
 
 argument = sys.argv
