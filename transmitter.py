@@ -4,6 +4,7 @@ import MyPacket
 import MySocket
 import config
 import pickle
+import time
 
 # IP Address for Transmitter
 host = config.hostnameT
@@ -28,6 +29,7 @@ with open(argument[1], 'r') as f:
 			print packet
 			socket.sock.sendall(packet)
 		print '====================', seqNum
+		time.sleep(1)
 		if not read_data:
 			break
 f.closed
