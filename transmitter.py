@@ -12,8 +12,6 @@ host = config.hostnameT
 # Creates a TCP/IP socket
 socket = MySocket.mysocket()
 
-ackSocket = MySocket.mysocket()
-
 socket.sock.connect((config.hostnameNE, config.rPort))
 
 argument = sys.argv
@@ -30,6 +28,9 @@ with open(argument[1], 'r') as f:
 			packet = pickle.dumps(packet)
 			print packet
 			socket.sock.sendall(packet)
+
+			recvAck = socket.sock.recv(config.BUFFER_SIZE)
+ 
 		print '====================', seqNum
 		time.sleep(1)
 		if not read_data:
