@@ -4,31 +4,34 @@ import MySocket
 import config
 import pickle
 
-print config.hostnameR
-
 socket = MySocket.mysocket()
 socket.sock.bind((config.hostnameR, config.rPort))
 socket.sock.listen(5)
-print "listening on port %s" % config.rPort
+print "Listening on port %s" % config.rPort
 
 # initialize sequence number
 seqNum = 0
 
 while True:
+	print "Waiting for connections"
 	conn, c_adddr = socket.sock.accept()
 	print c_adddr, conn
+
 	while True:
-		revBuffer = conn.recv(1024)
-		if not revBuffer:
+		recvBuffer = conn.recv(1024)
+		if not recvBuffer:
 			break
 
-		if revBuffer:
-			recvPacket = pickle.loads(revBuffer)
+		if recvBuffer:
+			recvPacket = pickle.loads(recvBuffer)
 			data = recvPacket.data
 			seqNum = recvPacket.seqNum
+			print "packet %s received sending ACK" % (seqNum)
+
+	# ack = MyPacket.mypacket(1, 1, None, config.windowSize, ackNum)
+	# 		conn.send()
 
 	# increament sequence number
 	seqNum += 1
 	ackNum = 0
-	# ack = MyPacket.mypacket(1, 1, None, config.windowSize, ackNum)
 	# print "%s" % ack.data
