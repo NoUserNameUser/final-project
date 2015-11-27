@@ -7,8 +7,8 @@ import time
 import random
 
 socketT = MySocket.mysocket()
-socketT.bind(('', config.portA))
-socketT.listen(5)
+socketT.sock.bind(('', config.portA))
+socketT.sock.listen(5)
 print "listening on port %s" % config.portA
 
 
@@ -30,6 +30,6 @@ while True:
 
 		if recvBuffer:
 			socketR.sock.sendall(recvBuffer)
-			fromRecv = socketR.recv(config.BUFFER_SIZE)
+			fromRecv = socketR.sock.recv(config.BUFFER_SIZE)
 			if fromRecv:
 				socketT.sock.sendall(fromRecv)

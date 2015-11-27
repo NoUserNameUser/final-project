@@ -6,13 +6,10 @@ import config
 import pickle
 import time
 
-# IP Address for Transmitter
-host = config.hostnameT
-
 # Creates a TCP/IP socket
 socket = MySocket.mysocket()
 
-socket.sock.connect((config.hostnameNE, config.rPort))
+socket.sock.connect((config.hostnameNE, config.portA))
 
 argument = sys.argv
 print argument

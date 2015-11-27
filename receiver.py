@@ -7,9 +7,9 @@ import pickle
 print config.hostnameR
 
 socket = MySocket.mysocket()
-socket.sock.bind((config.hostnameR, config.rPort))
+socket.sock.bind((config.hostnameR, config.portB))
 socket.sock.listen(5)
-print "listening on port %s" % config.rPort
+print "listening on port %s" % config.portB
 
 # initialize sequence number
 seqNum = 0
