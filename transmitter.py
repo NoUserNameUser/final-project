@@ -19,7 +19,7 @@ with open(argument[1], 'r') as f:
 	noAck = False
 	cachePacket = []
 	while True:
-		for i in xrange(8):
+		for i in xrange(config.windowSize):
 			print noAck
 			if noAck:
 				print 'in'

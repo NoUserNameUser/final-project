@@ -7,7 +7,7 @@ hostnameNE = 'localhost'
 rPort = 9000
 tPort = 9001
 
-windowSize = '8'
+windowSize = 8
 BUFFER_SIZE = 1024
 
 portA = 9000
