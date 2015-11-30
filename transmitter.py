@@ -9,7 +9,7 @@ import time
 # Creates a TCP/IP socketT
 socketT = MySocket.mysocket()
 
-socketT.sock.connect((config.hostnameNE, config.portB))
+socketT.sock.connect((config.hostnameNE, config.portA))
 
 argument = sys.argv
 print argument
