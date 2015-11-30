@@ -23,7 +23,7 @@ with open(argument[1], 'r') as f:
 			if resend:
 				# temp = pickle.loads(cachePacket[i])
 				# print "resending packets: %s" % (temp.seqNum)
-				time.sleep(0.001)
+				time.sleep(0.01)
 				socketT.sock.sendall(cachePacket[i])
 			else:
 				
@@ -43,8 +43,8 @@ with open(argument[1], 'r') as f:
 		print '====================', seqNum
 
 		try:
-			socketT.sock.settimeout(0.1)
-			ack = socketT.sock.recv(1024)
+			socketT.sock.settimeout(0.01)
+			ack = socketT.sock.recv(config.BUFFER_SIZE)
 		except socket.error, e:
 			err = e.args[0]
 			# if timed out, that means ack is not received
@@ -63,7 +63,10 @@ with open(argument[1], 'r') as f:
 			# reset cache packet array if resend is false
 			cachePacket = []
 
-		if not read_data:
+		if not read_data and resend == False:
+			eot = MyPacket.mypacket(3, seqNum, None, config.windowSize, None)
+			eot = pickle.dumps(eot)
+			socketT.sock.sendall(eot)
 			break
 f.closed
 
