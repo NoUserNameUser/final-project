@@ -11,6 +11,7 @@ import MyPacket
 import MySocket
 import config
 import random
+import pickle
 
 # Creates a TCP/IP socket called "socketT" for the transmitter (transmitter.py)
 socketT = MySocket.mysocket() 
@@ -44,14 +45,13 @@ while True:
 
 		# Randomly discards packets if the random number generated is greater than the
 		# drop rate specified in the config.py file. Packets drop 20% of the time
-		if random.random() > config.dropRate:
-			print ('Dropped packet from {}' .format(c_addr))
+		if random.random() < config.dropRate:
+			print '---------- Dropped packet ----------'
 			continue
 
 		# If no data is received from the connection, it will stop and break the connection
 		if not recvBuffer:
 			break
-
 		# If data is received 
 		if recvBuffer:
 
@@ -60,9 +60,17 @@ while True:
 			print ('Forwarded packets to the receiver')
 
 			# Receives the data from the receiver on "socketR" when the receiver tries to send data to the transmitter (ACKs)
-			fromRecv = socketR.sock.recv(config.BUFFER_SIZE)
+			try:
+				socketR.sock.settimeout(0.01)
+				fromRecv = socketR.sock.recv(config.BUFFER_SIZE)
+			except socket.error, e:
+				pass
 
 			# If there's data to send from the receiver, it will send everything received to the transmitter on "socketT"
-			if fromRecv:
-				socketT.sock.sendall(fromRecv)
-				print ('Sent packets to transmitter')
+			else:
+				if fromRecv:
+					conn.sendall(fromRecv)
+					print ('Sent ACK back to transmitter')
+
+
+

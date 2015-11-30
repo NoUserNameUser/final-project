@@ -4,6 +4,21 @@ import MySocket
 import config
 import pickle
 
+
+# loop to find if the sequence number is in the buffer already
+def seqNumInArray(array, element):
+	for i in xrange(config.windowSize):
+		if isinstance(array[i], list):
+			if array[i][0] == element:
+				return True
+	return False
+
+def windowFull(array):
+	for i in xrange(config.windowSize):
+		if array[i] == None:
+			return False
+	return True
+
 socket = MySocket.mysocket()
 socket.sock.bind((config.hostnameNE, config.portB))
 socket.sock.listen(5)
@@ -11,7 +26,7 @@ print "listening on port %s" % config.portB
 
 # initialize sequence number
 seqNum = 1
-count = 0
+buffWin = [None] * config.windowSize
 
 while True:
 	print "Waiting for connections"
@@ -19,7 +34,7 @@ while True:
 	print c_adddr, conn
 
 	while True:
-		recvBuffer = conn.recv(1024)
+		recvBuffer = conn.recv(config.BUFFER_SIZE)
 		if not recvBuffer:
 			break
 
@@ -27,22 +42,35 @@ while True:
 		if recvBuffer:
 			# decode data
 			recvPacket = pickle.loads(recvBuffer)
+			print recvPacket.type
+			# if eot, break out of the loop
+			if recvPacket.type == 3:
+				break
 			# assign variables
 			data = recvPacket.data
 			seqNum = recvPacket.seqNum
 			ackNum = seqNum + 1
-			count += 1
 			print "packet %s received" % (seqNum)
+
+			# this packet is not in the buffer window
+			if seqNumInArray(buffWin, seqNum) == False:
+				# put the packet in the buffer window
+				for i in xrange(config.windowSize):
+					if buffWin[i] == None:
+						buffWin[i] = [seqNum, data]
+						break
+
+			print buffWin
 			# encode ack
-			if seqNum % 8 == 0:
-				if count == 8: 
+			if seqNum % config.windowSize == 0:
+				if windowFull(buffWin): 
 					ack = pickle.dumps(MyPacket.mypacket(1, 1, None, config.windowSize, ackNum))
 					print "send ACK: %s" % (ackNum)
-					conn.send(ack)
-
-				# reset count
-				count = 0
+					conn.sendall(ack)
+					# reset buffWindow
+					buffWin = [None] * config.windowSize
 
 
 	# ack = MyPacket.mypacket(1, 1, None, config.windowSize, ackNum)
 	# 		conn.send()
+
