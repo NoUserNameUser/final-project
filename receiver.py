@@ -29,7 +29,7 @@ seqNum = 1
 buffWin = [None] * config.windowSize
 
 while True:
-	print "Waiting for connections"
+	print "Waiting for new connections"
 	conn, c_adddr = socket.sock.accept()
 	print c_adddr, conn
 
@@ -42,9 +42,18 @@ while True:
 		if recvBuffer:
 			# decode data
 			recvPacket = pickle.loads(recvBuffer)
-			print recvPacket.type
-			# if eot, break out of the loop
+			print "Packet type: ", recvPacket.type
+			# if eot received
 			if recvPacket.type == 3:
+				print "FIN received"
+				# send FIN ACK to transmitter
+				finAck = pickle.dumps(MyPacket.mypacket(3, 1, None, config.windowSize, ackNum+1))
+				print "sending FIN ACK"
+				conn.sendall(finAck)
+
+				print "connection closed"
+				# close connection
+				conn.close()
 				break
 			# assign variables
 			data = recvPacket.data
