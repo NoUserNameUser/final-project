@@ -5,7 +5,7 @@ import config
 import pickle
 
 socket = MySocket.mysocket()
-socket.sock.bind((config.hostnameR, config.portB))
+socket.sock.bind((config.hostnameNE, config.portB))
 socket.sock.listen(5)
 print "listening on port %s" % config.portB
 
