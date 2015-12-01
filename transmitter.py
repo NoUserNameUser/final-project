@@ -60,7 +60,7 @@ with open(argument[1], 'r') as f:
 			# if timed out, that means ack is not received
 			if(err == 'timed out'):
 				resend = True
-				print "No ACK received, sending previous window again"
+				print "Time out. No ACK received, sending previous window again"
 				pass
 
 		else:
