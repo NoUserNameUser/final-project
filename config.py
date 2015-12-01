@@ -1,11 +1,14 @@
-# Configuration File
+############################################
+# File name: Configuration File (config.py)#                  
+# Author: Jackie Ye & Reymon Mercado       #              
+# Assignment: FINAL PROJECT for COMP 7005  #                 
+# Instructor: Aman Abdulla                 #    
+############################################
 
-hostnameT = '192.168.0.2'
+# This section is not static. You must change the addresses depending on the host's address
+hostnameT = '192.168.0.2'  
 hostnameR = ''
 hostnameNE = 'localhost'
-
-rPort = 9000
-tPort = 9001
 
 windowSize = 8
 BUFFER_SIZE = 262144

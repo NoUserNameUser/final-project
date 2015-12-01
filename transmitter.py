@@ -1,3 +1,10 @@
+############################################
+# File name: Transmitter (transmitter.py)  #                  
+# Author: Jackie Ye & Reymon Mercado       #              
+# Assignment: FINAL PROJECT for COMP 7005  #                 
+# Instructor: Aman Abdulla                 #    
+############################################
+
 import socket
 import sys
 import MyPacket
