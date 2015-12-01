@@ -23,12 +23,7 @@ socketT.sock.bind(('', config.portA))
 socketT.sock.listen(5)
 print "Listening on port %s" % config.portA
 
-# Creates a TCP/IP socket called "socketR" for the receiver (receiver.py)
-socketR = MySocket.mysocket()
-
-# Connects the TCP/IP socket, "socketR", to the port, "portB"
-socketR.sock.connect((config.hostnameR, config.portB))
-print "Connected to port %s" % config.portB
+count = 1
 
 # Mainloop of the network emulator
 while True:
@@ -36,6 +31,13 @@ while True:
 	# Accepts connections from the specified socket for the transmitter, "socketT"
 	conn, c_addr = socketT.sock.accept()
 	print c_addr, conn
+
+	# Creates a TCP/IP socket called "socketR" for the receiver (receiver.py)
+	socketR = MySocket.mysocket()
+
+	# Connects the TCP/IP socket, "socketR", to the port, "portB"
+	socketR.sock.connect((config.hostnameR, config.portB))
+	print "Connected to port %s" % config.portB
 	
 	while True:
 
@@ -46,11 +48,14 @@ while True:
 		# Randomly discards packets if the random number generated is greater than the
 		# drop rate specified in the config.py file. Packets drop 20% of the time
 		if random.random() < config.dropRate:
-			print '---------- Dropped packet ----------'
+			print '---------- Dropped packet %s ----------' % count
+			count += 1
 			continue
 
 		# If no data is received from the connection, it will stop and break the connection
 		if not recvBuffer:
+			# close connection to receiver socket
+			socketR.sock.close()
 			break
 		# If data is received 
 		if recvBuffer:
