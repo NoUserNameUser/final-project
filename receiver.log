@@ -1,0 +1,1257 @@
+listening on port 9001
+Waiting for new connections
+('127.0.0.1', 59349) <socket._socketobject object at 0x10c8c02f0>
+Packet type:  2
+packet 1 received
+[[1, '#'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 2 received
+[[1, '#'], [2, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 1 received
+[[1, '#'], [2, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 2 received
+[[1, '#'], [2, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 3 received
+[[1, '#'], [2, ' '], [3, 'C'], None, None, None, None, None]
+Packet type:  2
+packet 4 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], None, None, None, None]
+Packet type:  2
+packet 5 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], None, None, None]
+Packet type:  2
+packet 6 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], None, None]
+Packet type:  2
+packet 1 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], None, None]
+Packet type:  2
+packet 2 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], None, None]
+Packet type:  2
+packet 5 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], None, None]
+Packet type:  2
+packet 6 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], None, None]
+Packet type:  2
+packet 8 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], None]
+Packet type:  2
+packet 1 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], None]
+Packet type:  2
+packet 2 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], None]
+Packet type:  2
+packet 4 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], None]
+Packet type:  2
+packet 5 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], None]
+Packet type:  2
+packet 6 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], None]
+Packet type:  2
+packet 7 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], [7, 'i']]
+Packet type:  2
+packet 8 received
+[[1, '#'], [2, ' '], [3, 'C'], [4, 'o'], [5, 'n'], [6, 'f'], [8, 'g'], [7, 'i']]
+send ACK: 9
+Packet type:  2
+packet 9 received
+[[9, 'u'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 10 received
+[[9, 'u'], [10, 'r'], None, None, None, None, None, None]
+Packet type:  2
+packet 9 received
+[[9, 'u'], [10, 'r'], None, None, None, None, None, None]
+Packet type:  2
+packet 10 received
+[[9, 'u'], [10, 'r'], None, None, None, None, None, None]
+Packet type:  2
+packet 11 received
+[[9, 'u'], [10, 'r'], [11, 'a'], None, None, None, None, None]
+Packet type:  2
+packet 12 received
+[[9, 'u'], [10, 'r'], [11, 'a'], [12, 't'], None, None, None, None]
+Packet type:  2
+packet 13 received
+[[9, 'u'], [10, 'r'], [11, 'a'], [12, 't'], [13, 'i'], None, None, None]
+Packet type:  2
+packet 14 received
+[[9, 'u'], [10, 'r'], [11, 'a'], [12, 't'], [13, 'i'], [14, 'o'], None, None]
+Packet type:  2
+packet 15 received
+[[9, 'u'], [10, 'r'], [11, 'a'], [12, 't'], [13, 'i'], [14, 'o'], [15, 'n'], None]
+Packet type:  2
+packet 16 received
+[[9, 'u'], [10, 'r'], [11, 'a'], [12, 't'], [13, 'i'], [14, 'o'], [15, 'n'], [16, ' ']]
+send ACK: 17
+Packet type:  2
+packet 17 received
+[[17, 'F'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 18 received
+[[17, 'F'], [18, 'i'], None, None, None, None, None, None]
+Packet type:  2
+packet 18 received
+[[17, 'F'], [18, 'i'], None, None, None, None, None, None]
+Packet type:  2
+packet 19 received
+[[17, 'F'], [18, 'i'], [19, 'l'], None, None, None, None, None]
+Packet type:  2
+packet 20 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], None, None, None, None]
+Packet type:  2
+packet 21 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], None, None, None]
+Packet type:  2
+packet 22 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], None, None]
+Packet type:  2
+packet 24 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 17 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 18 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 19 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 20 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 21 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 22 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 24 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 17 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 18 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 19 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 20 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 22 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], None]
+Packet type:  2
+packet 23 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 17 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 18 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 19 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 20 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 22 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 23 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+Packet type:  2
+packet 24 received
+[[17, 'F'], [18, 'i'], [19, 'l'], [20, 'e'], [21, '\n'], [22, '\n'], [24, 'o'], [23, 'h']]
+send ACK: 25
+Packet type:  2
+packet 26 received
+[[26, 't'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 27 received
+[[26, 't'], [27, 'n'], None, None, None, None, None, None]
+Packet type:  2
+packet 25 received
+[[26, 't'], [27, 'n'], [25, 's'], None, None, None, None, None]
+Packet type:  2
+packet 26 received
+[[26, 't'], [27, 'n'], [25, 's'], None, None, None, None, None]
+Packet type:  2
+packet 27 received
+[[26, 't'], [27, 'n'], [25, 's'], None, None, None, None, None]
+Packet type:  2
+packet 29 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], None, None, None, None]
+Packet type:  2
+packet 30 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], None, None, None]
+Packet type:  2
+packet 31 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], None, None]
+Packet type:  2
+packet 32 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 25 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 26 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 27 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 30 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 31 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 32 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 25 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 26 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 27 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], None]
+Packet type:  2
+packet 28 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 29 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 31 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 25 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 26 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 27 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 29 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 30 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 31 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 27 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 29 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 31 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+Packet type:  2
+packet 32 received
+[[26, 't'], [27, 'n'], [25, 's'], [29, 'm'], [30, 'e'], [31, 'T'], [32, ' '], [28, 'a']]
+send ACK: 33
+Packet type:  2
+packet 33 received
+[[33, '='], None, None, None, None, None, None, None]
+Packet type:  2
+packet 34 received
+[[33, '='], [34, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 33 received
+[[33, '='], [34, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 37 received
+[[33, '='], [34, ' '], [37, '9'], None, None, None, None, None]
+Packet type:  2
+packet 38 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], None, None, None, None]
+Packet type:  2
+packet 39 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], None, None, None]
+Packet type:  2
+packet 33 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], None, None, None]
+Packet type:  2
+packet 36 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], None, None]
+Packet type:  2
+packet 37 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], None, None]
+Packet type:  2
+packet 38 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], None, None]
+Packet type:  2
+packet 40 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], None]
+Packet type:  2
+packet 33 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], None]
+Packet type:  2
+packet 35 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], [35, "'"]]
+Packet type:  2
+packet 37 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], [35, "'"]]
+Packet type:  2
+packet 38 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], [35, "'"]]
+Packet type:  2
+packet 39 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], [35, "'"]]
+Packet type:  2
+packet 40 received
+[[33, '='], [34, ' '], [37, '9'], [38, '2'], [39, '.'], [36, '1'], [40, '1'], [35, "'"]]
+send ACK: 41
+Packet type:  2
+packet 41 received
+[[41, '6'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 41 received
+[[41, '6'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 42 received
+[[41, '6'], [42, '8'], None, None, None, None, None, None]
+Packet type:  2
+packet 43 received
+[[41, '6'], [42, '8'], [43, '.'], None, None, None, None, None]
+Packet type:  2
+packet 44 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], None, None, None, None]
+Packet type:  2
+packet 45 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], None, None, None]
+Packet type:  2
+packet 46 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], None, None]
+Packet type:  2
+packet 47 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], [47, "'"], None]
+Packet type:  2
+packet 41 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], [47, "'"], None]
+Packet type:  2
+packet 42 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], [47, "'"], None]
+Packet type:  2
+packet 43 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], [47, "'"], None]
+Packet type:  2
+packet 46 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], [47, "'"], None]
+Packet type:  2
+packet 48 received
+[[41, '6'], [42, '8'], [43, '.'], [44, '0'], [45, '.'], [46, '2'], [47, "'"], [48, '\n']]
+send ACK: 49
+Packet type:  2
+packet 49 received
+[[49, 'h'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 50 received
+[[49, 'h'], [50, 'o'], None, None, None, None, None, None]
+Packet type:  2
+packet 49 received
+[[49, 'h'], [50, 'o'], None, None, None, None, None, None]
+Packet type:  2
+packet 50 received
+[[49, 'h'], [50, 'o'], None, None, None, None, None, None]
+Packet type:  2
+packet 52 received
+[[49, 'h'], [50, 'o'], [52, 't'], None, None, None, None, None]
+Packet type:  2
+packet 54 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], None, None, None, None]
+Packet type:  2
+packet 56 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], None, None, None]
+Packet type:  2
+packet 49 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], None, None, None]
+Packet type:  2
+packet 50 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], None, None, None]
+Packet type:  2
+packet 51 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], [51, 's'], None, None]
+Packet type:  2
+packet 52 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], [51, 's'], None, None]
+Packet type:  2
+packet 53 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], [51, 's'], [53, 'n'], None]
+Packet type:  2
+packet 54 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], [51, 's'], [53, 'n'], None]
+Packet type:  2
+packet 55 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], [51, 's'], [53, 'n'], [55, 'm']]
+Packet type:  2
+packet 56 received
+[[49, 'h'], [50, 'o'], [52, 't'], [54, 'a'], [56, 'e'], [51, 's'], [53, 'n'], [55, 'm']]
+send ACK: 57
+Packet type:  2
+packet 57 received
+[[57, 'R'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 58 received
+[[57, 'R'], [58, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 58 received
+[[57, 'R'], [58, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 59 received
+[[57, 'R'], [58, ' '], [59, '='], None, None, None, None, None]
+Packet type:  2
+packet 60 received
+[[57, 'R'], [58, ' '], [59, '='], [60, ' '], None, None, None, None]
+Packet type:  2
+packet 61 received
+[[57, 'R'], [58, ' '], [59, '='], [60, ' '], [61, "'"], None, None, None]
+Packet type:  2
+packet 62 received
+[[57, 'R'], [58, ' '], [59, '='], [60, ' '], [61, "'"], [62, "'"], None, None]
+Packet type:  2
+packet 63 received
+[[57, 'R'], [58, ' '], [59, '='], [60, ' '], [61, "'"], [62, "'"], [63, '\n'], None]
+Packet type:  2
+packet 64 received
+[[57, 'R'], [58, ' '], [59, '='], [60, ' '], [61, "'"], [62, "'"], [63, '\n'], [64, 'h']]
+send ACK: 65
+Packet type:  2
+packet 65 received
+[[65, 'o'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 66 received
+[[65, 'o'], [66, 's'], None, None, None, None, None, None]
+Packet type:  2
+packet 65 received
+[[65, 'o'], [66, 's'], None, None, None, None, None, None]
+Packet type:  2
+packet 66 received
+[[65, 'o'], [66, 's'], None, None, None, None, None, None]
+Packet type:  2
+packet 68 received
+[[65, 'o'], [66, 's'], [68, 'n'], None, None, None, None, None]
+Packet type:  2
+packet 69 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], None, None, None, None]
+Packet type:  2
+packet 70 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], None, None, None]
+Packet type:  2
+packet 72 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], None, None]
+Packet type:  2
+packet 65 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], None, None]
+Packet type:  2
+packet 66 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], None, None]
+Packet type:  2
+packet 67 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], [67, 't'], None]
+Packet type:  2
+packet 68 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], [67, 't'], None]
+Packet type:  2
+packet 70 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], [67, 't'], None]
+Packet type:  2
+packet 71 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], [67, 't'], [71, 'e']]
+Packet type:  2
+packet 72 received
+[[65, 'o'], [66, 's'], [68, 'n'], [69, 'a'], [70, 'm'], [72, 'N'], [67, 't'], [71, 'e']]
+send ACK: 73
+Packet type:  2
+packet 73 received
+[[73, 'E'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 74 received
+[[73, 'E'], [74, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 73 received
+[[73, 'E'], [74, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 74 received
+[[73, 'E'], [74, ' '], None, None, None, None, None, None]
+Packet type:  2
+packet 76 received
+[[73, 'E'], [74, ' '], [76, ' '], None, None, None, None, None]
+Packet type:  2
+packet 77 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], None, None, None, None]
+Packet type:  2
+packet 78 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], None, None, None]
+Packet type:  2
+packet 79 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], None, None]
+Packet type:  2
+packet 80 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], None]
+Packet type:  2
+packet 73 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], None]
+Packet type:  2
+packet 74 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], None]
+Packet type:  2
+packet 75 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 76 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 77 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 78 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 79 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 73 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 74 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 75 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 76 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 78 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+Packet type:  2
+packet 80 received
+[[73, 'E'], [74, ' '], [76, ' '], [77, "'"], [78, 'l'], [79, 'o'], [80, 'c'], [75, '=']]
+send ACK: 81
+Packet type:  2
+packet 81 received
+[[81, 'a'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 82 received
+[[81, 'a'], [82, 'l'], None, None, None, None, None, None]
+Packet type:  2
+packet 81 received
+[[81, 'a'], [82, 'l'], None, None, None, None, None, None]
+Packet type:  2
+packet 82 received
+[[81, 'a'], [82, 'l'], None, None, None, None, None, None]
+Packet type:  2
+packet 83 received
+[[81, 'a'], [82, 'l'], [83, 'h'], None, None, None, None, None]
+Packet type:  2
+packet 84 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], None, None, None, None]
+Packet type:  2
+packet 86 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], None, None, None]
+Packet type:  2
+packet 82 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], None, None, None]
+Packet type:  2
+packet 83 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], None, None, None]
+Packet type:  2
+packet 84 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], None, None, None]
+Packet type:  2
+packet 85 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], None, None]
+Packet type:  2
+packet 88 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], None]
+Packet type:  2
+packet 81 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], None]
+Packet type:  2
+packet 82 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], None]
+Packet type:  2
+packet 84 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], None]
+Packet type:  2
+packet 86 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], None]
+Packet type:  2
+packet 87 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], [87, "'"]]
+Packet type:  2
+packet 88 received
+[[81, 'a'], [82, 'l'], [83, 'h'], [84, 'o'], [86, 't'], [85, 's'], [88, '\n'], [87, "'"]]
+send ACK: 89
+Packet type:  2
+packet 90 received
+[[90, 'r'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 91 received
+[[90, 'r'], [91, 'P'], None, None, None, None, None, None]
+Packet type:  2
+packet 90 received
+[[90, 'r'], [91, 'P'], None, None, None, None, None, None]
+Packet type:  2
+packet 91 received
+[[90, 'r'], [91, 'P'], None, None, None, None, None, None]
+Packet type:  2
+packet 93 received
+[[90, 'r'], [91, 'P'], [93, 'r'], None, None, None, None, None]
+Packet type:  2
+packet 94 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], None, None, None, None]
+Packet type:  2
+packet 95 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], None, None, None]
+Packet type:  2
+packet 96 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], None, None]
+Packet type:  2
+packet 89 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], [89, '\n'], None]
+Packet type:  2
+packet 92 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], [89, '\n'], [92, 'o']]
+Packet type:  2
+packet 93 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], [89, '\n'], [92, 'o']]
+Packet type:  2
+packet 94 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], [89, '\n'], [92, 'o']]
+Packet type:  2
+packet 95 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], [89, '\n'], [92, 'o']]
+Packet type:  2
+packet 96 received
+[[90, 'r'], [91, 'P'], [93, 'r'], [94, 't'], [95, ' '], [96, '='], [89, '\n'], [92, 'o']]
+send ACK: 97
+Packet type:  2
+packet 99 received
+[[99, '0'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 100 received
+[[99, '0'], [100, '0'], None, None, None, None, None, None]
+Packet type:  2
+packet 97 received
+[[99, '0'], [100, '0'], [97, ' '], None, None, None, None, None]
+Packet type:  2
+packet 99 received
+[[99, '0'], [100, '0'], [97, ' '], None, None, None, None, None]
+Packet type:  2
+packet 100 received
+[[99, '0'], [100, '0'], [97, ' '], None, None, None, None, None]
+Packet type:  2
+packet 102 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], None, None, None, None]
+Packet type:  2
+packet 103 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], None, None, None]
+Packet type:  2
+packet 104 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], None, None]
+Packet type:  2
+packet 97 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], None, None]
+Packet type:  2
+packet 98 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], [98, '9'], None]
+Packet type:  2
+packet 99 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], [98, '9'], None]
+Packet type:  2
+packet 100 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], [98, '9'], None]
+Packet type:  2
+packet 101 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], [98, '9'], [101, '0']]
+Packet type:  2
+packet 103 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], [98, '9'], [101, '0']]
+Packet type:  2
+packet 104 received
+[[99, '0'], [100, '0'], [97, ' '], [102, '\n'], [103, 't'], [104, 'P'], [98, '9'], [101, '0']]
+send ACK: 105
+Packet type:  2
+packet 105 received
+[[105, 'o'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 106 received
+[[105, 'o'], [106, 'r'], None, None, None, None, None, None]
+Packet type:  2
+packet 105 received
+[[105, 'o'], [106, 'r'], None, None, None, None, None, None]
+Packet type:  2
+packet 106 received
+[[105, 'o'], [106, 'r'], None, None, None, None, None, None]
+Packet type:  2
+packet 107 received
+[[105, 'o'], [106, 'r'], [107, 't'], None, None, None, None, None]
+Packet type:  2
+packet 108 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], None, None, None, None]
+Packet type:  2
+packet 110 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], None, None, None]
+Packet type:  2
+packet 111 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], None, None]
+Packet type:  2
+packet 112 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], [112, '0'], None]
+Packet type:  2
+packet 105 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], [112, '0'], None]
+Packet type:  2
+packet 106 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], [112, '0'], None]
+Packet type:  2
+packet 107 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], [112, '0'], None]
+Packet type:  2
+packet 109 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], [112, '0'], [109, '=']]
+Packet type:  2
+packet 112 received
+[[105, 'o'], [106, 'r'], [107, 't'], [108, ' '], [110, ' '], [111, '9'], [112, '0'], [109, '=']]
+send ACK: 113
+Packet type:  2
+packet 115 received
+[[115, '\n'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 116 received
+[[115, '\n'], [116, '\n'], None, None, None, None, None, None]
+Packet type:  2
+packet 113 received
+[[115, '\n'], [116, '\n'], [113, '0'], None, None, None, None, None]
+Packet type:  2
+packet 114 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], None, None, None, None]
+Packet type:  2
+packet 115 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], None, None, None, None]
+Packet type:  2
+packet 117 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], None, None, None]
+Packet type:  2
+packet 118 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], None, None]
+Packet type:  2
+packet 120 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], None]
+Packet type:  2
+packet 113 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], None]
+Packet type:  2
+packet 114 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], None]
+Packet type:  2
+packet 116 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], None]
+Packet type:  2
+packet 118 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], None]
+Packet type:  2
+packet 119 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], [119, 'n']]
+Packet type:  2
+packet 120 received
+[[115, '\n'], [116, '\n'], [113, '0'], [114, '1'], [117, 'w'], [118, 'i'], [120, 'd'], [119, 'n']]
+send ACK: 121
+Packet type:  2
+packet 121 received
+[[121, 'o'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 122 received
+[[121, 'o'], [122, 'w'], None, None, None, None, None, None]
+Packet type:  2
+packet 122 received
+[[121, 'o'], [122, 'w'], None, None, None, None, None, None]
+Packet type:  2
+packet 123 received
+[[121, 'o'], [122, 'w'], [123, 'S'], None, None, None, None, None]
+Packet type:  2
+packet 124 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], None, None, None, None]
+Packet type:  2
+packet 125 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], None, None, None]
+Packet type:  2
+packet 128 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], None, None]
+Packet type:  2
+packet 121 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], None, None]
+Packet type:  2
+packet 125 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], None, None]
+Packet type:  2
+packet 127 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], None]
+Packet type:  2
+packet 128 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], None]
+Packet type:  2
+packet 121 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], None]
+Packet type:  2
+packet 122 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], None]
+Packet type:  2
+packet 123 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], None]
+Packet type:  2
+packet 126 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], [126, 'e']]
+Packet type:  2
+packet 127 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], [126, 'e']]
+Packet type:  2
+packet 128 received
+[[121, 'o'], [122, 'w'], [123, 'S'], [124, 'i'], [125, 'z'], [128, '='], [127, ' '], [126, 'e']]
+send ACK: 129
+Packet type:  2
+packet 129 received
+[[129, ' '], None, None, None, None, None, None, None]
+Packet type:  2
+packet 130 received
+[[129, ' '], [130, '8'], None, None, None, None, None, None]
+Packet type:  2
+packet 129 received
+[[129, ' '], [130, '8'], None, None, None, None, None, None]
+Packet type:  2
+packet 130 received
+[[129, ' '], [130, '8'], None, None, None, None, None, None]
+Packet type:  2
+packet 131 received
+[[129, ' '], [130, '8'], [131, '\n'], None, None, None, None, None]
+Packet type:  2
+packet 132 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], None, None, None, None]
+Packet type:  2
+packet 133 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], None, None, None]
+Packet type:  2
+packet 134 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], None, None]
+Packet type:  2
+packet 136 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 129 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 130 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 131 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 132 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 133 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 134 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 129 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 130 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 131 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 132 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 133 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 134 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], None]
+Packet type:  2
+packet 135 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], [135, 'F']]
+Packet type:  2
+packet 136 received
+[[129, ' '], [130, '8'], [131, '\n'], [132, 'B'], [133, 'U'], [134, 'F'], [136, 'E'], [135, 'F']]
+send ACK: 137
+Packet type:  2
+packet 137 received
+[[137, 'R'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 138 received
+[[137, 'R'], [138, '_'], None, None, None, None, None, None]
+Packet type:  2
+packet 137 received
+[[137, 'R'], [138, '_'], None, None, None, None, None, None]
+Packet type:  2
+packet 138 received
+[[137, 'R'], [138, '_'], None, None, None, None, None, None]
+Packet type:  2
+packet 139 received
+[[137, 'R'], [138, '_'], [139, 'S'], None, None, None, None, None]
+Packet type:  2
+packet 140 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], None, None, None, None]
+Packet type:  2
+packet 141 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], None, None, None]
+Packet type:  2
+packet 143 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], None, None]
+Packet type:  2
+packet 144 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], None]
+Packet type:  2
+packet 137 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], None]
+Packet type:  2
+packet 138 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], None]
+Packet type:  2
+packet 139 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], None]
+Packet type:  2
+packet 140 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], None]
+Packet type:  2
+packet 141 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], None]
+Packet type:  2
+packet 142 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], [142, 'E']]
+Packet type:  2
+packet 144 received
+[[137, 'R'], [138, '_'], [139, 'S'], [140, 'I'], [141, 'Z'], [143, ' '], [144, '='], [142, 'E']]
+send ACK: 145
+Packet type:  2
+packet 145 received
+[[145, ' '], None, None, None, None, None, None, None]
+Packet type:  2
+packet 146 received
+[[145, ' '], [146, '2'], None, None, None, None, None, None]
+Packet type:  2
+packet 145 received
+[[145, ' '], [146, '2'], None, None, None, None, None, None]
+Packet type:  2
+packet 146 received
+[[145, ' '], [146, '2'], None, None, None, None, None, None]
+Packet type:  2
+packet 147 received
+[[145, ' '], [146, '2'], [147, '6'], None, None, None, None, None]
+Packet type:  2
+packet 148 received
+[[145, ' '], [146, '2'], [147, '6'], [148, '2'], None, None, None, None]
+Packet type:  2
+packet 149 received
+[[145, ' '], [146, '2'], [147, '6'], [148, '2'], [149, '1'], None, None, None]
+Packet type:  2
+packet 150 received
+[[145, ' '], [146, '2'], [147, '6'], [148, '2'], [149, '1'], [150, '4'], None, None]
+Packet type:  2
+packet 151 received
+[[145, ' '], [146, '2'], [147, '6'], [148, '2'], [149, '1'], [150, '4'], [151, '4'], None]
+Packet type:  2
+packet 152 received
+[[145, ' '], [146, '2'], [147, '6'], [148, '2'], [149, '1'], [150, '4'], [151, '4'], [152, '\n']]
+send ACK: 153
+Packet type:  2
+packet 153 received
+[[153, '\n'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 154 received
+[[153, '\n'], [154, 'p'], None, None, None, None, None, None]
+Packet type:  2
+packet 154 received
+[[153, '\n'], [154, 'p'], None, None, None, None, None, None]
+Packet type:  2
+packet 155 received
+[[153, '\n'], [154, 'p'], [155, 'o'], None, None, None, None, None]
+Packet type:  2
+packet 156 received
+[[153, '\n'], [154, 'p'], [155, 'o'], [156, 'r'], None, None, None, None]
+Packet type:  2
+packet 157 received
+[[153, '\n'], [154, 'p'], [155, 'o'], [156, 'r'], [157, 't'], None, None, None]
+Packet type:  2
+packet 158 received
+[[153, '\n'], [154, 'p'], [155, 'o'], [156, 'r'], [157, 't'], [158, 'A'], None, None]
+Packet type:  2
+packet 159 received
+[[153, '\n'], [154, 'p'], [155, 'o'], [156, 'r'], [157, 't'], [158, 'A'], [159, ' '], None]
+Packet type:  2
+packet 160 received
+[[153, '\n'], [154, 'p'], [155, 'o'], [156, 'r'], [157, 't'], [158, 'A'], [159, ' '], [160, '=']]
+send ACK: 161
+Packet type:  2
+packet 161 received
+[[161, ' '], None, None, None, None, None, None, None]
+Packet type:  2
+packet 162 received
+[[161, ' '], [162, '9'], None, None, None, None, None, None]
+Packet type:  2
+packet 162 received
+[[161, ' '], [162, '9'], None, None, None, None, None, None]
+Packet type:  2
+packet 163 received
+[[161, ' '], [162, '9'], [163, '0'], None, None, None, None, None]
+Packet type:  2
+packet 164 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], None, None, None, None]
+Packet type:  2
+packet 165 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], None, None, None]
+Packet type:  2
+packet 167 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], None, None]
+Packet type:  2
+packet 168 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], None]
+Packet type:  2
+packet 161 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], None]
+Packet type:  2
+packet 162 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], None]
+Packet type:  2
+packet 163 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], None]
+Packet type:  2
+packet 165 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], None]
+Packet type:  2
+packet 166 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], [166, '\n']]
+Packet type:  2
+packet 167 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], [166, '\n']]
+Packet type:  2
+packet 168 received
+[[161, ' '], [162, '9'], [163, '0'], [164, '0'], [165, '0'], [167, 'p'], [168, 'o'], [166, '\n']]
+send ACK: 169
+Packet type:  2
+packet 169 received
+[[169, 'r'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 169 received
+[[169, 'r'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 170 received
+[[169, 'r'], [170, 't'], None, None, None, None, None, None]
+Packet type:  2
+packet 171 received
+[[169, 'r'], [170, 't'], [171, 'B'], None, None, None, None, None]
+Packet type:  2
+packet 172 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], None, None, None, None]
+Packet type:  2
+packet 173 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], None, None, None]
+Packet type:  2
+packet 175 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], None, None]
+Packet type:  2
+packet 176 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], None]
+Packet type:  2
+packet 169 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], None]
+Packet type:  2
+packet 170 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], None]
+Packet type:  2
+packet 171 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], None]
+Packet type:  2
+packet 173 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], None]
+Packet type:  2
+packet 174 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], [174, ' ']]
+Packet type:  2
+packet 175 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], [174, ' ']]
+Packet type:  2
+packet 176 received
+[[169, 'r'], [170, 't'], [171, 'B'], [172, ' '], [173, '='], [175, '9'], [176, '0'], [174, ' ']]
+send ACK: 177
+Packet type:  2
+packet 177 received
+[[177, '0'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 178 received
+[[177, '0'], [178, '1'], None, None, None, None, None, None]
+Packet type:  2
+packet 177 received
+[[177, '0'], [178, '1'], None, None, None, None, None, None]
+Packet type:  2
+packet 178 received
+[[177, '0'], [178, '1'], None, None, None, None, None, None]
+Packet type:  2
+packet 179 received
+[[177, '0'], [178, '1'], [179, '\n'], None, None, None, None, None]
+Packet type:  2
+packet 181 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], None, None, None, None]
+Packet type:  2
+packet 183 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], None, None, None]
+Packet type:  2
+packet 184 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], None, None]
+Packet type:  2
+packet 177 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], None, None]
+Packet type:  2
+packet 178 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], None, None]
+Packet type:  2
+packet 179 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], None, None]
+Packet type:  2
+packet 180 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], [180, '\n'], None]
+Packet type:  2
+packet 182 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], [180, '\n'], [182, 'r']]
+Packet type:  2
+packet 183 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], [180, '\n'], [182, 'r']]
+Packet type:  2
+packet 184 received
+[[177, '0'], [178, '1'], [179, '\n'], [181, 'd'], [183, 'o'], [184, 'p'], [180, '\n'], [182, 'r']]
+send ACK: 185
+Packet type:  2
+packet 186 received
+[[186, 'a'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 187 received
+[[186, 'a'], [187, 't'], None, None, None, None, None, None]
+Packet type:  2
+packet 185 received
+[[186, 'a'], [187, 't'], [185, 'R'], None, None, None, None, None]
+Packet type:  2
+packet 191 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], None, None, None, None]
+Packet type:  2
+packet 192 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], None, None, None]
+Packet type:  2
+packet 187 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], None, None, None]
+Packet type:  2
+packet 189 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], None, None]
+Packet type:  2
+packet 190 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], None]
+Packet type:  2
+packet 191 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], None]
+Packet type:  2
+packet 192 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], None]
+Packet type:  2
+packet 185 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], None]
+Packet type:  2
+packet 187 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], None]
+Packet type:  2
+packet 188 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], [188, 'e']]
+Packet type:  2
+packet 189 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], [188, 'e']]
+Packet type:  2
+packet 190 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], [188, 'e']]
+Packet type:  2
+packet 191 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], [188, 'e']]
+Packet type:  2
+packet 192 received
+[[186, 'a'], [187, 't'], [185, 'R'], [191, ' '], [192, '0'], [189, ' '], [190, '='], [188, 'e']]
+send ACK: 193
+Packet type:  2
+packet 193 received
+[[193, '.'], None, None, None, None, None, None, None]
+Packet type:  2
+packet 194 received
+[[193, '.'], [194, '2'], None, None, None, None, None, None]
+Packet type:  2
+packet 193 received
+[[193, '.'], [194, '2'], None, None, None, None, None, None]
+Packet type:  2
+packet 195 received
+[[193, '.'], [194, '2'], [195, '\n'], None, None, None, None, None]
+Packet type:  2
+packet 196 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], None, None, None, None]
+Packet type:  2
+packet 197 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], None, None, None]
+Packet type:  2
+packet 198 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], None, None]
+Packet type:  2
+packet 199 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 193 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 194 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 195 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 196 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 197 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 198 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 199 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], None]
+Packet type:  2
+packet 200 received
+[[193, '.'], [194, '2'], [195, '\n'], [196, '\n'], [197, ''], [198, ''], [199, ''], [200, '']]
+send ACK: 201
+Packet type:  3
+FIN received
+sending FIN ACK
+connection closed
+Waiting for new connections

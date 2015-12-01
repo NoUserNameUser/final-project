@@ -1,0 +1,82 @@
+Pseudo Code
+
+Receiver:
+
+socket = bind_socket()
+socket.listen()
+
+while true:
+	# to accept connection
+	connection = socket.accept()
+
+	while true:
+		data = connection.receive()
+		# check data
+		validate(data)
+
+		#insert data in buffer window
+		window_insert(data)
+
+		# if window is full, send ack
+		if window_full():
+			connection.send(ack)
+
+		# if there are no more data
+		if no data:
+			connection.close()
+
+
+Transmitter:
+
+socket.connect()
+# read from argument a file name
+data = readfile(file_name)
+while true:
+	# read 1 byte from data
+	byte_data = data.read(1)
+	# there is a sender window
+	for each slot in window:
+		socket.send(byte_data)
+
+	# set receive timeout and wait for ack after the window is all sent
+	socket.receive.settimeout(time)
+	response = socket.receive()
+
+	# if timeout, resend the window
+	if timeout:
+		resend()
+
+	# if ack is received, proceed with next window set
+	if ack:
+		send_more()
+
+
+Emulator:
+
+# connect to the Receiver
+socketA.connect(receiver)
+
+# use another socket to listen from Transmitter
+socketB.bind()
+socketB.listen()
+
+
+while true:
+	# if there are data from Transmitter
+	if data = socketB.receive():
+
+		# randomly drop received packets
+		packet_drop(data, drop_rate)
+
+		# pass data to Receiver
+		socketA.send(data)
+
+		# wait for Receiver's response
+		response = socketA.receive()
+
+		# if there are response, pass it back to Transmitter
+		socketB.send(response)
+
+
+
+

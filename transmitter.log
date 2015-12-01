@@ -1,0 +1,287 @@
+sending packet. Sequence Number: 1. Type: Data
+sending packet. Sequence Number: 2. Type: Data
+sending packet. Sequence Number: 3. Type: Data
+sending packet. Sequence Number: 4. Type: Data
+sending packet. Sequence Number: 5. Type: Data
+sending packet. Sequence Number: 6. Type: Data
+sending packet. Sequence Number: 7. Type: Data
+sending packet. Sequence Number: 8. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 9
+sending packet. Sequence Number: 9. Type: Data
+sending packet. Sequence Number: 10. Type: Data
+sending packet. Sequence Number: 11. Type: Data
+sending packet. Sequence Number: 12. Type: Data
+sending packet. Sequence Number: 13. Type: Data
+sending packet. Sequence Number: 14. Type: Data
+sending packet. Sequence Number: 15. Type: Data
+sending packet. Sequence Number: 16. Type: Data
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 17
+sending packet. Sequence Number: 17. Type: Data
+sending packet. Sequence Number: 18. Type: Data
+sending packet. Sequence Number: 19. Type: Data
+sending packet. Sequence Number: 20. Type: Data
+sending packet. Sequence Number: 21. Type: Data
+sending packet. Sequence Number: 22. Type: Data
+sending packet. Sequence Number: 23. Type: Data
+sending packet. Sequence Number: 24. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 25
+sending packet. Sequence Number: 25. Type: Data
+sending packet. Sequence Number: 26. Type: Data
+sending packet. Sequence Number: 27. Type: Data
+sending packet. Sequence Number: 28. Type: Data
+sending packet. Sequence Number: 29. Type: Data
+sending packet. Sequence Number: 30. Type: Data
+sending packet. Sequence Number: 31. Type: Data
+sending packet. Sequence Number: 32. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 33
+sending packet. Sequence Number: 33. Type: Data
+sending packet. Sequence Number: 34. Type: Data
+sending packet. Sequence Number: 35. Type: Data
+sending packet. Sequence Number: 36. Type: Data
+sending packet. Sequence Number: 37. Type: Data
+sending packet. Sequence Number: 38. Type: Data
+sending packet. Sequence Number: 39. Type: Data
+sending packet. Sequence Number: 40. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 41
+sending packet. Sequence Number: 41. Type: Data
+sending packet. Sequence Number: 42. Type: Data
+sending packet. Sequence Number: 43. Type: Data
+sending packet. Sequence Number: 44. Type: Data
+sending packet. Sequence Number: 45. Type: Data
+sending packet. Sequence Number: 46. Type: Data
+sending packet. Sequence Number: 47. Type: Data
+sending packet. Sequence Number: 48. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 49
+sending packet. Sequence Number: 49. Type: Data
+sending packet. Sequence Number: 50. Type: Data
+sending packet. Sequence Number: 51. Type: Data
+sending packet. Sequence Number: 52. Type: Data
+sending packet. Sequence Number: 53. Type: Data
+sending packet. Sequence Number: 54. Type: Data
+sending packet. Sequence Number: 55. Type: Data
+sending packet. Sequence Number: 56. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 57
+sending packet. Sequence Number: 57. Type: Data
+sending packet. Sequence Number: 58. Type: Data
+sending packet. Sequence Number: 59. Type: Data
+sending packet. Sequence Number: 60. Type: Data
+sending packet. Sequence Number: 61. Type: Data
+sending packet. Sequence Number: 62. Type: Data
+sending packet. Sequence Number: 63. Type: Data
+sending packet. Sequence Number: 64. Type: Data
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 65
+sending packet. Sequence Number: 65. Type: Data
+sending packet. Sequence Number: 66. Type: Data
+sending packet. Sequence Number: 67. Type: Data
+sending packet. Sequence Number: 68. Type: Data
+sending packet. Sequence Number: 69. Type: Data
+sending packet. Sequence Number: 70. Type: Data
+sending packet. Sequence Number: 71. Type: Data
+sending packet. Sequence Number: 72. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 73
+sending packet. Sequence Number: 73. Type: Data
+sending packet. Sequence Number: 74. Type: Data
+sending packet. Sequence Number: 75. Type: Data
+sending packet. Sequence Number: 76. Type: Data
+sending packet. Sequence Number: 77. Type: Data
+sending packet. Sequence Number: 78. Type: Data
+sending packet. Sequence Number: 79. Type: Data
+sending packet. Sequence Number: 80. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 81
+sending packet. Sequence Number: 81. Type: Data
+sending packet. Sequence Number: 82. Type: Data
+sending packet. Sequence Number: 83. Type: Data
+sending packet. Sequence Number: 84. Type: Data
+sending packet. Sequence Number: 85. Type: Data
+sending packet. Sequence Number: 86. Type: Data
+sending packet. Sequence Number: 87. Type: Data
+sending packet. Sequence Number: 88. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 89
+sending packet. Sequence Number: 89. Type: Data
+sending packet. Sequence Number: 90. Type: Data
+sending packet. Sequence Number: 91. Type: Data
+sending packet. Sequence Number: 92. Type: Data
+sending packet. Sequence Number: 93. Type: Data
+sending packet. Sequence Number: 94. Type: Data
+sending packet. Sequence Number: 95. Type: Data
+sending packet. Sequence Number: 96. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 97
+sending packet. Sequence Number: 97. Type: Data
+sending packet. Sequence Number: 98. Type: Data
+sending packet. Sequence Number: 99. Type: Data
+sending packet. Sequence Number: 100. Type: Data
+sending packet. Sequence Number: 101. Type: Data
+sending packet. Sequence Number: 102. Type: Data
+sending packet. Sequence Number: 103. Type: Data
+sending packet. Sequence Number: 104. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 105
+sending packet. Sequence Number: 105. Type: Data
+sending packet. Sequence Number: 106. Type: Data
+sending packet. Sequence Number: 107. Type: Data
+sending packet. Sequence Number: 108. Type: Data
+sending packet. Sequence Number: 109. Type: Data
+sending packet. Sequence Number: 110. Type: Data
+sending packet. Sequence Number: 111. Type: Data
+sending packet. Sequence Number: 112. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 113
+sending packet. Sequence Number: 113. Type: Data
+sending packet. Sequence Number: 114. Type: Data
+sending packet. Sequence Number: 115. Type: Data
+sending packet. Sequence Number: 116. Type: Data
+sending packet. Sequence Number: 117. Type: Data
+sending packet. Sequence Number: 118. Type: Data
+sending packet. Sequence Number: 119. Type: Data
+sending packet. Sequence Number: 120. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 121
+sending packet. Sequence Number: 121. Type: Data
+sending packet. Sequence Number: 122. Type: Data
+sending packet. Sequence Number: 123. Type: Data
+sending packet. Sequence Number: 124. Type: Data
+sending packet. Sequence Number: 125. Type: Data
+sending packet. Sequence Number: 126. Type: Data
+sending packet. Sequence Number: 127. Type: Data
+sending packet. Sequence Number: 128. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 129
+sending packet. Sequence Number: 129. Type: Data
+sending packet. Sequence Number: 130. Type: Data
+sending packet. Sequence Number: 131. Type: Data
+sending packet. Sequence Number: 132. Type: Data
+sending packet. Sequence Number: 133. Type: Data
+sending packet. Sequence Number: 134. Type: Data
+sending packet. Sequence Number: 135. Type: Data
+sending packet. Sequence Number: 136. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 137
+sending packet. Sequence Number: 137. Type: Data
+sending packet. Sequence Number: 138. Type: Data
+sending packet. Sequence Number: 139. Type: Data
+sending packet. Sequence Number: 140. Type: Data
+sending packet. Sequence Number: 141. Type: Data
+sending packet. Sequence Number: 142. Type: Data
+sending packet. Sequence Number: 143. Type: Data
+sending packet. Sequence Number: 144. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 145
+sending packet. Sequence Number: 145. Type: Data
+sending packet. Sequence Number: 146. Type: Data
+sending packet. Sequence Number: 147. Type: Data
+sending packet. Sequence Number: 148. Type: Data
+sending packet. Sequence Number: 149. Type: Data
+sending packet. Sequence Number: 150. Type: Data
+sending packet. Sequence Number: 151. Type: Data
+sending packet. Sequence Number: 152. Type: Data
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 153
+sending packet. Sequence Number: 153. Type: Data
+sending packet. Sequence Number: 154. Type: Data
+sending packet. Sequence Number: 155. Type: Data
+sending packet. Sequence Number: 156. Type: Data
+sending packet. Sequence Number: 157. Type: Data
+sending packet. Sequence Number: 158. Type: Data
+sending packet. Sequence Number: 159. Type: Data
+sending packet. Sequence Number: 160. Type: Data
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 161
+sending packet. Sequence Number: 161. Type: Data
+sending packet. Sequence Number: 162. Type: Data
+sending packet. Sequence Number: 163. Type: Data
+sending packet. Sequence Number: 164. Type: Data
+sending packet. Sequence Number: 165. Type: Data
+sending packet. Sequence Number: 166. Type: Data
+sending packet. Sequence Number: 167. Type: Data
+sending packet. Sequence Number: 168. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 169
+sending packet. Sequence Number: 169. Type: Data
+sending packet. Sequence Number: 170. Type: Data
+sending packet. Sequence Number: 171. Type: Data
+sending packet. Sequence Number: 172. Type: Data
+sending packet. Sequence Number: 173. Type: Data
+sending packet. Sequence Number: 174. Type: Data
+sending packet. Sequence Number: 175. Type: Data
+sending packet. Sequence Number: 176. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 177
+sending packet. Sequence Number: 177. Type: Data
+sending packet. Sequence Number: 178. Type: Data
+sending packet. Sequence Number: 179. Type: Data
+sending packet. Sequence Number: 180. Type: Data
+sending packet. Sequence Number: 181. Type: Data
+sending packet. Sequence Number: 182. Type: Data
+sending packet. Sequence Number: 183. Type: Data
+sending packet. Sequence Number: 184. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 185
+sending packet. Sequence Number: 185. Type: Data
+sending packet. Sequence Number: 186. Type: Data
+sending packet. Sequence Number: 187. Type: Data
+sending packet. Sequence Number: 188. Type: Data
+sending packet. Sequence Number: 189. Type: Data
+sending packet. Sequence Number: 190. Type: Data
+sending packet. Sequence Number: 191. Type: Data
+sending packet. Sequence Number: 192. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 193
+sending packet. Sequence Number: 193. Type: Data
+sending packet. Sequence Number: 194. Type: Data
+sending packet. Sequence Number: 195. Type: Data
+sending packet. Sequence Number: 196. Type: Data
+sending packet. Sequence Number: 197. Type: Data
+sending packet. Sequence Number: 198. Type: Data
+sending packet. Sequence Number: 199. Type: Data
+sending packet. Sequence Number: 200. Type: Data
+Time out. No ACK received, sending previous window again
+Time out. No ACK received, sending previous window again
+ack received, ACK Number: 201
+------ end of the file -------
+Sending FIN
+ack received, ACK Number: 202
+FIN ACK received, closing connection
