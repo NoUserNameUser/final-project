@@ -1,4 +1,9 @@
-# MyPacket class
+############################################
+# File name: MyPacket class (myPacket.py)  #                  
+# Author: Jackie Ye & Reymon Mercado       #              
+# Assignment: FINAL PROJECT for COMP 7005  #                 
+# Instructor: Aman Abdulla                 #    
+############################################
 
 class mypacket:
 

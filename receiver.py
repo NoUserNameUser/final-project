@@ -1,4 +1,10 @@
-#this is receiver
+############################################
+# File name: Receiver (receiver.py)        #                  
+# Author: Jackie Ye & Reymon Mercado       #              
+# Assignment: FINAL PROJECT for COMP 7005  #                 
+# Instructor: Aman Abdulla                 #    
+############################################
+
 import MyPacket
 import MySocket
 import config

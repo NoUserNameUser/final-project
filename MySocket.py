@@ -1,3 +1,10 @@
+############################################
+# File name: MySocket class (mySocket.py)  #                  
+# Author: Jackie Ye & Reymon Mercado       #              
+# Assignment: FINAL PROJECT for COMP 7005  #                 
+# Instructor: Aman Abdulla                 #    
+############################################
+
 import socket
 
 class mysocket:
