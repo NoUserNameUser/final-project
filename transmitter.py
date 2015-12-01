@@ -81,6 +81,8 @@ with open(argument[1], 'r') as f:
 		if not read_data and resend == False:
 			print "------ end of the file -------"
 			eotSent = True
+
+		if eotSent:
 			sendEot(socketT.sock, seqNum)
 
 f.closed

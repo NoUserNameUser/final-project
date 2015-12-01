@@ -78,8 +78,6 @@ while True:
 					conn.sendall(ack)
 					# reset buffWindow
 					buffWin = [None] * config.windowSize
-
-
 	# ack = MyPacket.mypacket(1, 1, None, config.windowSize, ackNum)
 	# 		conn.send()
 
